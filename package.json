@@ -1,0 +1,29 @@
+{
+  "name": "esyscloud",
+  "version": "1.0.0",
+  "description": "Sistema de gestao online.",
+  "productName": "eSys Cloud",
+  "cordovaId": "br.com.esysconsultoria.esyscloud",
+  "author": "eSys Consultoria e Soluções em TI <comercial@esysconsultoria.com.br>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "vuelidate": "^0.7.4"
+  },
+  "devDependencies": {
+    "quasar-cli": "^0.16.0"
+  },
+  "engines": {
+    "node": ">= 8.9.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ]
+}
